@@ -2,6 +2,8 @@
 
 A lightweight stateless web UI for S3-compatible object storage. It is designed for one configured storage instance and works with providers such as MinIO, Cloudflare R2, AWS S3, Backblaze B2, and other S3-compatible endpoints.
 
+![S3Explorer Demo Screenshot](demo.png)
+
 ## Features
 
 - Browse multiple configured buckets with breadcrumb, path, and filter navigation.
